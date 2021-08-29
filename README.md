@@ -1,8 +1,8 @@
 # Merge-Sorted-Array
-Clean and easy to understand js solution, faster runtime than 91% 
-leetcode challenge(easy): 
+my clean and easy to understand js solution, faster runtime than 91% of other solutions
+leetcode challenge: 
 
-You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
+"You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
 
 Merge nums1 and nums2 into a single array sorted in non-decreasing order.
 
@@ -40,4 +40,4 @@ nums2.length == n
 -109 <= nums1[i], nums2[j] <= 109
  
 
-Follow up: Can you come up with an algorithm that runs in O(m + n) time?
+Follow up: Can you come up with an algorithm that runs in O(m + n) time?"
