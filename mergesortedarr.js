@@ -11,3 +11,8 @@ var merge = function(nums1, m, nums2, n) {
             }
         }
     }
+
+
+
+///tc:O(m+n)
+
